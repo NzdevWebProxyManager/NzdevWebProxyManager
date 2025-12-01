@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NzdevWebProxyManager/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NzdevWebProxyManager/frontend.git
+[submodule "agent"]
+	path = agent
+	url = https://github.com/NzdevWebProxyManager/agent.git
